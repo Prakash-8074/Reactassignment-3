@@ -1,0 +1,32 @@
+{
+  "name": "reactproject",
+  "version": "1.0.0",
+  "description": "React Assignment 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakash-8074/Reactassignment-3.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakash-8074/Reactassignment-3/issues"
+  },
+  "homepage": "https://github.com/Prakash-8074/Reactassignment-3#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
